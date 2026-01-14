@@ -5,3 +5,7 @@
 
 https://github.com/user-attachments/assets/4431da8a-165f-4d9e-b532-ec41022a57dd
 
+with Offline LLM 
+
+https://github.com/user-attachments/assets/d954aea8-cdb9-46fe-8d2e-cb928220f896
+
