@@ -9,3 +9,7 @@ with Offline LLM
 
 https://github.com/user-attachments/assets/d954aea8-cdb9-46fe-8d2e-cb928220f896
 
+with shaders
+
+https://github.com/user-attachments/assets/fb595cc1-a541-4bf2-9be9-6a76a5b9fde3
+
